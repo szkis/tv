@@ -1,0 +1,15 @@
+VOA,https://n08.radiojar.com/7thwu53r92quv?rj-ttl=5&rj-tok=AAABg8CQYa4AS_0fCjmWo9rpqg
+voa中文,https://voa11.akacast.akamaistream.net/7/683/437793/v1/ibb.akacast.akamaistream.net/voa11
+美国之音,https://stream.radiojar.com/7thwu53r92quv
+法广新闻,https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
+无界新闻,http://radio.soundofhope.org:8880/NEWS_32K.mp3
+希望之声,https://livecast1.soundofhope.org:2087/soh-live
+自由亚洲电台,https://rfahls-i.akamaihd.net/hls/live/226232/RFALive_1/index.m3u8
+500首华语经典,http://ls.qingting.fm/live/3412131.m3u8
+明星音乐,http://ls.qingting.fm/live/91019.m3u8
+深圳交通广播,http://ls.qingting.fm/live/1272.m3u8
+深圳私家车广播,http://ls.qingting.fm/live/1273.m3u8
+深圳飞扬音乐,http://ls.qingting.fm/live/1271.m3u8
+环球资讯广播,http://sk.cri.cn/905.m3u8
+中文环球广播,http://sk.cri.cn/hyhq.m3u8
+181FM,http://relay.181.fm:8128
